@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -jar /usr/share/apktool-arm/jar/apktool.jar $@

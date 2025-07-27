@@ -1,0 +1,7 @@
+Package: apktool
+Version: 2.12.0-1.1
+Section: utils
+Priority: optional
+Architecture: arm64
+Maintainer: AlfaPSH <alfapsh700@gmail.com>
+Description: Apktool on arm64

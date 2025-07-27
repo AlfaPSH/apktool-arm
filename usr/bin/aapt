@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/usr/share/apktool-arm/bin/qemu /usr/share/apktool-arm/bin/aapt $@
